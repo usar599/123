@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0c1b33"/><stop offset="1" stop-color="#263c5f"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<rect x="0" y="610" width="1200" height="190" fill="#ffffff"/>
+<rect x="70" y="80" width="1060" height="450" rx="28" fill="#d9e3ef"/>
+<circle cx="280" cy="290" r="110" fill="#8aa0b8"/>
+<rect x="430" y="185" width="560" height="42" rx="10" fill="#6a7f99"/>
+<rect x="430" y="255" width="440" height="30" rx="8" fill="#9aaabd"/>
+<rect x="430" y="310" width="500" height="30" rx="8" fill="#9aaabd"/>
+<rect x="430" y="365" width="360" height="30" rx="8" fill="#9aaabd"/>
+<text x="70" y="655" font-family="Arial, sans-serif" font-weight="700" font-size="34" fill="#111827">架空ニュース速報：新素材の量産技術を発表</text>
+<text x="70" y="705" font-family="Arial, sans-serif" font-size="22" fill="#4b5563">報道写真風サンプル / 生成AI案件向けポートフォリオ</text>
+<rect x="960" y="640" width="170" height="54" rx="27" fill="#b91c1c"/>
+<text x="1003" y="675" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="white">NEWS</text>
+</svg>
