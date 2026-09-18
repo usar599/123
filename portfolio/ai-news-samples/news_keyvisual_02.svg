@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f4efe6"/>
+<rect x="80" y="70" width="1040" height="660" rx="24" fill="#ffffff" stroke="#ded7cb" stroke-width="2"/>
+<text x="120" y="145" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#111111">THE DAILY SIGNAL</text>
+<line x1="120" y1="175" x2="1080" y2="175" stroke="#111111"/>
+<text x="120" y="245" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#111111">都市型農業、夜間電力で</text>
+<text x="120" y="310" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#111111">コスト30%削減の実証へ</text>
+<rect x="120" y="355" width="960" height="240" rx="18" fill="#dae6d6"/>
+<rect x="150" y="385" width="260" height="180" rx="14" fill="#9fbea0"/>
+<rect x="440" y="390" width="580" height="28" rx="8" fill="#8ba08f"/>
+<rect x="440" y="440" width="500" height="24" rx="8" fill="#b0beb1"/>
+<rect x="440" y="486" width="530" height="24" rx="8" fill="#b0beb1"/>
+<rect x="440" y="532" width="390" height="24" rx="8" fill="#b0beb1"/>
+<text x="120" y="650" font-family="Arial, sans-serif" font-size="21" fill="#555555">架空記事キービジュアル / レイアウト・見出し設計サンプル</text>
+</svg>
