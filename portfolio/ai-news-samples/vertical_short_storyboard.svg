@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101827"/>
+<text x="70" y="110" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="white">架空ニュース縦型ショート</text>
+<text x="70" y="170" font-family="Arial, sans-serif" font-size="28" fill="#cbd5e1">15秒想定 / 3カット構成</text>
+<g transform="translate(70,240)">
+<rect width="940" height="460" rx="28" fill="#23344f"/>
+<text x="40" y="70" font-family="Arial" font-size="34" fill="#93c5fd" font-weight="700">CUT 1 / 0–4秒</text>
+<text x="40" y="135" font-family="Arial" font-size="44" fill="white" font-weight="700">「深夜の工場で異変」</text>
+<rect x="40" y="185" width="860" height="210" rx="20" fill="#415a77"/>
+</g>
+<g transform="translate(70,760)">
+<rect width="940" height="460" rx="28" fill="#2a3d52"/>
+<text x="40" y="70" font-family="Arial" font-size="34" fill="#fcd34d" font-weight="700">CUT 2 / 4–10秒</text>
+<text x="40" y="135" font-family="Arial" font-size="44" fill="white" font-weight="700">「新素材の量産ラインが稼働」</text>
+<rect x="40" y="185" width="860" height="210" rx="20" fill="#596b7c"/>
+</g>
+<g transform="translate(70,1280)">
+<rect width="940" height="460" rx="28" fill="#314b3b"/>
+<text x="40" y="70" font-family="Arial" font-size="34" fill="#86efac" font-weight="700">CUT 3 / 10–15秒</text>
+<text x="40" y="135" font-family="Arial" font-size="44" fill="white" font-weight="700">「コスト30%削減へ」</text>
+<rect x="40" y="185" width="860" height="210" rx="20" fill="#56705f"/>
+<text x="40" y="430" font-family="Arial" font-size="25" fill="#d1fae5">字幕・ナレーション・BGMを想定した構成</text>
+</g>
+</svg>
